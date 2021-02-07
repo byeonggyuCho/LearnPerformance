@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cra-bundle-analyzer": "^0.1.0"
+  }
+}
